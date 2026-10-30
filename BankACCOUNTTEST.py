@@ -105,5 +105,5 @@ while True:
         print("Thank you for using our bank")
         exit() #123123
 
-
+print("happy new year")
         
